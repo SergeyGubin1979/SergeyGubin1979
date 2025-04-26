@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey Gubin
 - 👀 I’m interested in Python, HTML, SQL develop apps
-- 🌱 I’m currently learning C++, IoT, microcontrollers.
+- 🌱 I’m currently learning C++, IoT, microcontrollers ESP, STM.
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me Email : sergeygubin@mail.ru
 Watsapp, Telegramm, viber + 375-29-179-06-08
